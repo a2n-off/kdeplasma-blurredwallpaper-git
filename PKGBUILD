@@ -1,11 +1,13 @@
 # Maintainer: Bouteiller a2n Alan <a2n.dev@pm.me>
 
-_tag=52624d01b34f19daaa19b62b0e88e95c67d764ee
+# previous tag jic : 52624d01b34f19daaa19b62b0e88e95c67d764ee
+
+_tag=716f68470912751804c64bf7d31979cbd10f129b
 _sourceName="blurredwallpaper"
 _plasmoidName="a2n.blur"
 
 pkgname="kdeplasma-blurredwallpaper-git"
-pkgver=3.1.1
+pkgver=3.2.0
 pkgrel=2
 pkgdesc="KDE plasma wallpaper plugin that blur the wallpaper when a window is active"
 arch=("any")
